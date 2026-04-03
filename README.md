@@ -4,7 +4,6 @@ BBA in Computer Information Systems @ Western Michigan University
 ISC2 Certified in Cybersecurity (CC)    
 Building & Breaking Things
 LinkedIn: linkedin.com/in/saad-mahmud-/
-
 ---
 ```bash
 $ whoami
