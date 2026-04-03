@@ -3,9 +3,9 @@
  ## ➡️ About Me
 
 - 👋 Hi, I'm Saad! A developer with a passion for cybersecurity.
-- 🎓 CIS + Cybersecurity Minor @ Western Michigan University (GPA: 3.59)
+- 🎓 CIS + Cybersecurity Minor @ Western Michigan University
 - 🔐 ISC2 Certified in Cybersecurity (CC)
-- 💻 Building things & breaking things
+- 💻 Building & Breaking things
 
 ---
 ```bash
@@ -23,6 +23,7 @@ OSINT Team @ WRAVEN
 Systems Team @ WMU Developers Club
 Event Coordinator @ Data Science & AI Club
 ```
+---
 ## 🤝 Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-mahmud-/)
