@@ -1,8 +1,15 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hi+I'm+Saad;Cybersecurity+Enthusiast;Systems+Analyst+%7C+)
 
-  BBA in Computer Information Systems @ Western Michigan University  
-  ISC2 Certified in Cybersecurity (CC)    
-  Building & Breaking Things
+ ## ➡️ About Me
+
+- 👋 Hi, I'm Saad! A developer with a passion for cybersecurity.
+- 🎓 CIS + Cybersecurity Minor @ Western Michigan University (GPA: 3.59)
+- 🔐 ISC2 Certified in Cybersecurity (CC)
+- 💻 Building things & breaking things
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolv1ee&layout=compact&theme=dark)
 ---
 ```bash
 $ whoami
@@ -19,3 +26,7 @@ OSINT Team @ WRAVEN
 Systems Team @ WMU Developers Club
 Event Coordinator @ Data Science & AI Club
 ```
+## 🤝 Connect with me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-mahmud-/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdsaad.mahmud@wmich.edu)
