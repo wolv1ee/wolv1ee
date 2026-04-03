@@ -1,9 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hi+I'm+Saad;Cybersecurity+Enthusiast;Systems+Analyst+%7C+)
 
 BBA in Computer Information Systems @ Western Michigan University  
-ISC2 Certified in Cybersecurity (CC)  
-OSINT & Threat Intelligence with WRAVEN  
-Building & Breaking Things 
+ISC2 Certified in Cybersecurity (CC)    
+Building & Breaking Things
+LinkedIn: linkedin.com/in/saad-mahmud-/
+
 ---
 ```bash
 $ whoami
