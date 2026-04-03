@@ -8,9 +8,6 @@
 - 💻 Building things & breaking things
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolv1ee&layout=compact&theme=dark)
----
 ```bash
 $ whoami
 Saad Mahmud | CIS & Cybersecurity Student
@@ -29,4 +26,3 @@ Event Coordinator @ Data Science & AI Club
 ## 🤝 Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-mahmud-/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdsaad.mahmud@wmich.edu)
