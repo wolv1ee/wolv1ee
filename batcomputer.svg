@@ -120,8 +120,6 @@
 
   <!-- contact -->
   <text x="30" y="412" class="orb" font-size="9" fill="#443300" letter-spacing="3">//  OPEN CHANNEL</text>
-  <text x="30"  y="432" class="mono" font-size="12" fill="#444">EMAIL  &#9658;</text>
-  <text x="116" y="432" class="mono" font-size="12" fill="#00e5ff" filter="url(#glow)">mdsaad.mahmud@wmich.edu</text>
   <text x="30"  y="452" class="mono" font-size="12" fill="#444">NET    &#9658;</text>
   <text x="116" y="452" class="mono" font-size="12" fill="#00e5ff" filter="url(#glow)">linkedin.com/in/saad-mahmud-</text>
 
