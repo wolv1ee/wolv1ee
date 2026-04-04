@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=34&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Hi+I'm+Saad;Cybersecurity+Enthusiast;Defender+of+Digital+Gotham)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=32&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+I'm+Saad;Cybersecurity+Enthusiast;Future+Systems+Analyst)
 
 ![Batcomputer](./batcomputer(1).svg)
 
