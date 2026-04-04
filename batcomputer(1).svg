@@ -120,8 +120,6 @@
   <text x="30" y="412" class="orb" font-size="9" fill="#443300" letter-spacing="3">//  OPEN CHANNEL</text>
   <text x="30"  y="452" class="mono" font-size="12" fill="#444">NET    &#9658;</text>
   <text x="116" y="452" class="mono" font-size="12" fill="#00e5ff" filter="url(#glow)">linkedin.com/in/saad-mahmud-</text> 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-mahmud-/)
-
 
   <line x1="20" y1="470" x2="780" y2="470" stroke="#2a2200" stroke-width="1"/>
 
