@@ -111,7 +111,7 @@
   <text x="104" y="356" class="mono" font-size="12" fill="#ffdd00">OSINT Team</text>
   <text x="200" y="356" class="mono" font-size="12" fill="#444">@ WRAVEN</text>
   <text x="30"  y="376" class="mono" font-size="12" fill="#39ff14" filter="url(#glow)">[ACTIVE]</text>
-  <text x="104" y="376" class="mono" font-size="12" fill="#ffdd00">Event Coordinator</text>
+  <text x="104" y="376" class="mono" font-size="12" fill="#ffdd00">Vice President</text>
   <text x="252" y="376" class="mono" font-size="12" fill="#444">@ Data Science &amp; AI Club</text>
 
   <line x1="20" y1="394" x2="780" y2="394" stroke="#2a2200" stroke-width="1"/>
